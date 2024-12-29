@@ -1,0 +1,181 @@
+                                          WELCOME TO HERBIVORIA 
+WE ARE DELIGHTED TO HAVE YOUWE HOPE YOU WILL HAVE A GREAT VISIT HERE
+THE MENU LIST IS DISPLAYED BELOW-:
+STARTERS-:		PRICE
+s1.veg spring roll	250
+s2.crispy corn		200
+s3.veg hakka noodles	180
+s4.schezwan fried rice	200
+s5.manchurian		150
+s6.paneer chilli	250
+s7.chinese bhel		230
+s8.paneer 65		190
+s9.paneer manchurian	260
+s10.baby corn fry	200
+BREAKFAST AND SNACKS-:	PRICE
+b1.chole bhature	100
+b2.papdi chaat		90
+b3.samosa chaat		80
+b4.veg sandwich		120
+b5.pani puri		60
+b6.samosa		50
+b7.veg roll		100
+b8.paneer roll		120
+b9.litti choka		60
+b10.dahi vada		90
+SOUTH INDIAN-:		PRICE
+i1.plain dosa		120
+i2.masala dosa		150
+i3.idli sambhar		100
+i4.sambhar vada		120
+i5.uttapam		100
+MAIN COURSE-:		PRICE
+m1.butter naan		12
+m2.garlic naan		20
+m3.stuffed kulcha	25
+m4.tandoori roti	15
+m5.aloo do pyaaza	200
+m6.kadhai paneer	190
+m7.paneerbuttermasala	200
+m8.daal makhani		180
+m9.yellow daal		200
+m10.jeera rice		160
+m11.fried rice		180
+m12.curry chawal	150
+m13.aloo jeera		180
+SIDES-:			PRICE
+sd1.papad		15
+sd2.salad		50
+sd3.mineralwater	30
+SOUPS-:			PRICE
+so1.manchow soup	150
+so2.hot&sour soup	150
+so3.sweetcorn soup	150
+so4.tomato soup		150
+DESERTS&BEVERAGES	:PRICE
+d1.cold coffee		120
+d2.hot chocolate	100
+d3.lassi		50
+d4.masala coke		60
+d5.BrownieWithIceCream	150
+d6.lemon ice tea	100
+d7.peach ice tea	140
+
+NOW SELECT YOUR CHOICES-:
+ENTER YES IF YOU WANT TOORDER SOMETHING FROM STARTERSyes
+INSTRUCTIONS TO ENTER YOUR CHOICES:
+1)ENTER THE CODE PROVIDED BEFORE
+YOUR DESIRED FOOD ITEM
+LIKE s1,s2...SO ON.
+2)ENTER 0 ONCE YOU ARE DONE ORDERING
+FROM STARTERS CORNER
+ENTER THE CODEs1
+enter the quantity1
+ENTER THE CODE0
+MOVING ON TO THE BREAKFAST OR SNACKS SECTION:
+ENTER YES IF YOU WANT TO
+ORDER FROM THIS SECTIONb1
+MOVING ON TO THE SOUTH INDIAN SECTION:
+ENTER YES IF YOU WANT TO ORDER
+FROM THIS SECTIONyes
+INSTRUCTIONS TO ENTER YOUR CHOICES:
+1)ENTER THE CODE PROVIDED BEFORE
+YOUR DESIRED FOOD ITEM
+LIKE i1,i2...SO ON.
+2)ENTER 0 ONCE YOU ARE DONE ORDERING FROM
+SOUTH INDIAN CORNER
+enter the codei1
+enter the quantity1
+enter the code0
+MOVING ON TO THE MAIN COURSE SECTION:
+ENTER YES IF YOU WANT TO ORDER
+FROM THIS SECTIONyes
+INSTRUCTIONS TO ENTER YOUR CHOICES:
+1)ENTER THE CODE PROVIDED BEFORE
+YOUR DESIRED FOOD ITEM
+LIKE m1,m2...SO ON.
+2)ENTER 0 ONCE YOU ARE DONE ORDERING FROM
+MAIN COURSE CORNER
+enter the codem1
+enter the quantity1
+enter the code0
+MOVING ON TO THE SIDES SECTION:
+ENTER YES IF YOU WANT TO ORDER
+FROM THIS SECTIONyes
+INSTRUCTIONS TO ENTER YOUR CHOICES:
+1)ENTER THE CODE PROVIDED BEFORE
+YOUR DESIRED FOOD ITEM
+LIKE sd1,sd2...SO ON.
+2)ENTER 0 ONCE YOU ARE DONE ORDERING
+FROM SIDES CORNER
+enter the codesd1
+enter the quantity1
+enter the code0
+MOVING ON TO THE SOUP SECTION:
+ENTER YES IF YOU WANT TO ORDER
+FROM THIS SECTIONyes
+INSTRUCTIONS TO ENTER YOUR CHOICES:
+1)ENTER THE CODE PROVIDED BEFORE
+YOUR DESIRED FOOD ITEM
+LIKE so1,so2...SO ON.
+2)ENTER 0 ONCE YOU ARE DONE ORDERING
+FROM SOUP CORNER
+enter the codeso1
+enter the quantity1
+enter the code0
+MOVING ON TO THE DESERT&BEVERAGES SECTION:
+ENTER YES IF YOU WANT TO ORDER
+FROM THIS SECTIONyes
+INSTRUCTIONS TO ENTER YOUR CHOICES:
+1)ENTER THE CODE PROVIDED BEFORE
+YOUR DESIRED FOOD ITEM
+LIKE d1,d2...SO ON.
+2)ENTER 0 ONCE YOU ARE DONE ORDERING
+FROM THISCORNER
+enter the coded1
+enter the quantity1
+enter the code0
+*******************************************
+****************************************************
+YOU WOULD LIKE
+1.DINING
+2.DELIVERY
+3.RESERVATION 
+enter your preference from 1,2,33
+number of total
+          seatings available is 50
+ENTER NUMBER OF
+SEATS TO BE BOOKED12
+remaining seatings available are  38
+ENTER THE OCCASIONbirthday
+ENTER THE DATE DD/MM/YYYY10/10/2023
+ENTER THE TIME5:00pm
+Your table for 12
+people is booked for 10/10/2023 at 5:00pm
+Extra charges for reservation
+would be rupees 500
+THE FINAL DETAILS OF YOUR ORDER ARE:
+ITEMS ADDED ARE:
+VEG SPRING ROLL
+PLAIN DOSA
+BUTTER NAAN
+PAPAD
+MANCHOW SOUP
+COLD COFFEE
+RESPECTIVE COSTS OF THE ITEMS ADDED
+250
+120
+12
+15
+150
+120
+GST APPLIED:18%
+THE FINAL AMOUNT IS 1377.06
+ENTER YOUR PAYMENT OPTION:
+1.Cash
+2.UPI
+3.Credit/Debit card
+enter your choice from 1-31
+YOUR ORDER WILL SOON BE PREPARED!!
+THANKS FOR ORDERING!!
+>>> 
