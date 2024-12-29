@@ -1,0 +1,59 @@
+STARTERS-:		PRICE
+s1.veg spring roll	250
+s2.crispy corn		200
+s3.veg hakka noodles	180
+s4.schezwan fried rice	200
+s5.manchurian		150
+s6.paneer chilli	250
+s7.chinese bhel		230
+s8.paneer 65		190
+s9.paneer manchurian	260
+s10.baby corn fry	200
+BREAKFAST AND SNACKS-:	PRICE
+b1.chole bhature	100
+b2.papdi chaat		90
+b3.samosa chaat		80
+b4.veg sandwich		120
+b5.pani puri		60
+b6.samosa		50
+b7.veg roll		100
+b8.paneer roll		120
+b9.litti choka		60
+b10.dahi vada		90
+SOUTH INDIAN-:		PRICE
+i1.plain dosa		120
+i2.masala dosa		150
+i3.idli sambhar		100
+i4.sambhar vada		120
+i5.uttapam		100
+MAIN COURSE-:		PRICE
+m1.butter naan		12
+m2.garlic naan		20
+m3.stuffed kulcha	25
+m4.tandoori roti	15
+m5.aloo do pyaaza	200
+m6.kadhai paneer	190
+m7.paneerbuttermasala	200
+m8.daal makhani		180
+m9.yellow daal		200
+m10.jeera rice		160
+m11.fried rice		180
+m12.curry chawal	150
+m13.aloo jeera		180
+SIDES-:			PRICE
+sd1.papad		15
+sd2.salad		50
+sd3.mineralwater	30
+SOUPS-:			PRICE
+so1.manchow soup	150
+so2.hot&sour soup	150
+so3.sweetcorn soup	150
+so4.tomato soup		150
+DESERTS&BEVERAGES	:PRICE
+d1.cold coffee		120
+d2.hot chocolate	100
+d3.lassi		50
+d4.masala coke		60
+d5.BrownieWithIceCream	150
+d6.lemon ice tea	100
+d7.peach ice tea	140
